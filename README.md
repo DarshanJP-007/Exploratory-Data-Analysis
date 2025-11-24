@@ -7,12 +7,37 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
    - **Description**: Analyzing Diwali sales data to uncover consumer behavior and sales trends during the festive season.
    - **Tools**: Python, Pandas, Seaborn, SQL.
    - **Link**: https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/Diwali
-     
+
+ ------
 
 2. **📈 Euromart Sales & Profitability Analysis**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/EuroMart
+
+------
+3. **📈 Stroke**
+   - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
+   - **Tools**: Python, Pandas, Matplotlib, SQL.
+   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/66e06f6bfc8ff425d861823e9c16fa17bdc919e0/Stroke
+
+------
+
+
+4. **📈 Stroke**
+   - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
+   - **Tools**: Python, Pandas, Matplotlib, SQL.
+   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/66e06f6bfc8ff425d861823e9c16fa17bdc919e0/Stroke
+
+-------
+
+
+5. **📈 Stroke**
+   - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
+   - **Tools**: Python, Pandas, Matplotlib, SQL.
+   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/66e06f6bfc8ff425d861823e9c16fa17bdc919e0/Stroke
+
+-----
 
 ## ⚙️ Requirements
 
