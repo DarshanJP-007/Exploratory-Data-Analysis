@@ -3,46 +3,16 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 ## 📚 Table of Contents
 
-1. **🚗 Car Data Analysis**
-   - **Description**: Analysis of various factors affecting car prices, mileage, and overall market trends.
-   - **Tools**: Python, Pandas, Matplotlib, SQL.
-   - **LInk**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Car
-     
-
-2. **🎇 Diwali Sales Analysis**
+1. **🎇 Diwali Sales Analysis**
    - **Description**: Analyzing Diwali sales data to uncover consumer behavior and sales trends during the festive season.
    - **Tools**: Python, Pandas, Seaborn, SQL.
    - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Diwali_sales
+     
 
-3. **📈 Euromart Sales & Profitability Analysis**
+2. **📈 Euromart Sales & Profitability Analysis**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Euromart
-
-4. **🌍 Global Superstore Sales & Profitability Analysis**
-   - **Description**: Comprehensive analysis of global sales data, focusing on customer segmentation and regional performance.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Global_Store
-
-5. **🎥 IMDb Movie Analysis**
-   - **Description**: Exploring IMDb data to identify trends in movie ratings, genres, and box office success.
-   - **Tools**: Python, Pandas, Matplotlib, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/IMDB%20Movie
-
-6. **🏏 Full Fledge IPL Data Analysis (2008-2024)**
-   - **Description**: In-depth analysis of IPL data spanning from 2008 to 2024, including player performance, team statistics, and match outcomes.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/IPL/IPL%202008-2024
-
-7. **🚢 Titanic Data Analysis**
-   - **Description**: Investigating the factors that influenced passenger survival rates on the Titanic.
-   - **Tools**: Python, Pandas, Matplotlib, Seaborn, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Titanic
-
-8. **🍽️ Zomato Geographical Analysis**
-   - **Description**: Geographical analysis of Zomato's restaurant data, focusing on location-based trends and customer preferences.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Zomato
 
 ## ⚙️ Requirements
 
