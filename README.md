@@ -6,13 +6,13 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 1. **🎇 Diwali Sales Analysis**
    - **Description**: Analyzing Diwali sales data to uncover consumer behavior and sales trends during the festive season.
    - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Diwali_sales
+   - **Link**: https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/Diwali
      
 
 2. **📈 Euromart Sales & Profitability Analysis**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
-   - **Link**: https://github.com/Malkanagouda/Exploratory-Data-Analysis-with-Python/tree/main/Euromart
+   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/EuroMart
 
 ## ⚙️ Requirements
 
