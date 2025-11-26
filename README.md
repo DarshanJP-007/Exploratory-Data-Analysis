@@ -6,7 +6,7 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 1. **🏎️ Cars**
    - **Description**: A comprehensive exploratory data analysis (EDA) of the Cars dataset to uncover trends, patterns, and key performance insights.
    - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**: https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/Diwali
+   - **Link**: https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/57c836e8b076685be84900fc779464f4b719c8b2/Cars
 
  ------
 
@@ -31,10 +31,10 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 -------
 
-5. **📈 Stroke**
-   - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
+5. **📈 Weather**
+   - **Description**: A simple and fast weather app that shows real-time temperature and climate details for any city.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
-   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/66e06f6bfc8ff425d861823e9c16fa17bdc919e0/Stroke
+   - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/57c836e8b076685be84900fc779464f4b719c8b2/Weather
 
 -----
 
