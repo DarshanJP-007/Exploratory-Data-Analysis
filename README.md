@@ -3,8 +3,8 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 ## 📚 Table of Contents
 
-1. **🎇 Diwali Sales Analysis**
-   - **Description**: Analyzing Diwali sales data to uncover consumer behavior and sales trends during the festive season.
+1. **🏎️ Cars**
+   - **Description**: A comprehensive exploratory data analysis (EDA) of the Cars dataset to uncover trends, patterns, and key performance insights.
    - **Tools**: Python, Pandas, Seaborn, SQL.
    - **Link**: https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/6cdaeeb1b0d2a70bebfd2bb784e4ad74684751f4/Diwali
 
