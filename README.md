@@ -24,14 +24,14 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 ------
 
-4. **📈 Stroke**
+4. **🩻 Stroke**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/66e06f6bfc8ff425d861823e9c16fa17bdc919e0/Stroke
 
 -------
 
-5. **📈 Weather**
+5. **⛈️ Weather**
    - **Description**: A simple and fast weather app that shows real-time temperature and climate details for any city.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/DarshanJP-007/Exploratory-Data-Analysis/tree/57c836e8b076685be84900fc779464f4b719c8b2/Weather
